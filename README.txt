@@ -8,3 +8,5 @@ Set project properties to GNU application.
 Don't Delete any files. Save all of then in same directory.
  
 click .exe file.
+===================
+Version 2.0 comming soon!!!
