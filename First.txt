@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my first C project!
+=======
+This is my first C project !! I'm in the first branch.
+>>>>>>> V1.0
